@@ -1,0 +1,36 @@
+{
+    "accent_phrases": [
+        {
+            "moras": [
+                {
+                    "text": "ア",
+                    "consonant": null,
+                    "consonant_length": null,
+                    "vowel": "a",
+                    "vowel_length": 0.2375323325395584,
+                    "pitch": 5.916438102722168
+                },
+                {
+                    "text": "ア",
+                    "consonant": null,
+                    "consonant_length": null,
+                    "vowel": "a",
+                    "vowel_length": 0.2562846541404724,
+                    "pitch": 5.8958282470703125
+                }
+            ],
+            "accent": 1,
+            "pause_mora": null,
+            "is_interrogative": false
+        }
+    ],
+    "speedScale": 1,
+    "pitchScale": 0,
+    "intonationScale": 1,
+    "volumeScale": 1,
+    "prePhonemeLength": 0.1,
+    "postPhonemeLength": 0.1,
+    "outputSamplingRate": 24000,
+    "outputStereo": false,
+    "kana": "ア'ア"
+}
